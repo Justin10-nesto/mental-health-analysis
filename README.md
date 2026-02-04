@@ -387,17 +387,6 @@ For questions or collaboration opportunities:
 - The tech community for raising awareness about mental health
 - World Health Organization for mental health research and statistics
 
----
-
-## 📚 References
-
-1. World Health Organization. (2023). Mental Health in the Workplace
-2. Harvey et al. (2017). Systematic Meta-review of Work-related Risk Factors
-3. Bakker & Demerouti. (2007). Job Demands-Resources Model
-4. Guyon & Elisseeff. (2003). Feature Selection Techniques
-5. Xu & Wunsch. (2005). Survey of Clustering Algorithms
-
----
 
 ## ⭐ Project Status
 
